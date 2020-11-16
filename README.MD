@@ -5,9 +5,6 @@ Rest-Api-User-Device est un middleware pour Express nottament, qui permet d'effe
 
 yarn add f2-rest-api-user-device
 
-## Auteur
-
-Rufux
 
 ## Utilisation
 
